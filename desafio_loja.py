@@ -4,6 +4,7 @@ from datetime import datetime
 from loja import Cliente, Vendedor, Compra
 
 
+
 def main():
     cliente = Cliente('Maria Lima', 44)
     vendedor = Vendedor('Pedro Garrido', 36, 5000)
